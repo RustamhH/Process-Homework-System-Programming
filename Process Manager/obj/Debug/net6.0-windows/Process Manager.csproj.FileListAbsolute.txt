@@ -1,0 +1,21 @@
+D:\System Programming\Process Manager\Process Manager\bin\Debug\net6.0-windows\Process Manager.exe
+D:\System Programming\Process Manager\Process Manager\bin\Debug\net6.0-windows\Process Manager.deps.json
+D:\System Programming\Process Manager\Process Manager\bin\Debug\net6.0-windows\Process Manager.runtimeconfig.json
+D:\System Programming\Process Manager\Process Manager\bin\Debug\net6.0-windows\Process Manager.dll
+D:\System Programming\Process Manager\Process Manager\bin\Debug\net6.0-windows\Process Manager.pdb
+D:\System Programming\Process Manager\Process Manager\obj\Debug\net6.0-windows\Process Manager.csproj.AssemblyReference.cache
+D:\System Programming\Process Manager\Process Manager\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\System Programming\Process Manager\Process Manager\obj\Debug\net6.0-windows\App.g.cs
+D:\System Programming\Process Manager\Process Manager\obj\Debug\net6.0-windows\Process Manager_MarkupCompile.cache
+D:\System Programming\Process Manager\Process Manager\obj\Debug\net6.0-windows\Process Manager_MarkupCompile.lref
+D:\System Programming\Process Manager\Process Manager\obj\Debug\net6.0-windows\MainWindow.baml
+D:\System Programming\Process Manager\Process Manager\obj\Debug\net6.0-windows\Process Manager.g.resources
+D:\System Programming\Process Manager\Process Manager\obj\Debug\net6.0-windows\Process Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\System Programming\Process Manager\Process Manager\obj\Debug\net6.0-windows\Process Manager.AssemblyInfoInputs.cache
+D:\System Programming\Process Manager\Process Manager\obj\Debug\net6.0-windows\Process Manager.AssemblyInfo.cs
+D:\System Programming\Process Manager\Process Manager\obj\Debug\net6.0-windows\Process Manager.csproj.CoreCompileInputs.cache
+D:\System Programming\Process Manager\Process Manager\obj\Debug\net6.0-windows\Process Manager.dll
+D:\System Programming\Process Manager\Process Manager\obj\Debug\net6.0-windows\refint\Process Manager.dll
+D:\System Programming\Process Manager\Process Manager\obj\Debug\net6.0-windows\Process Manager.pdb
+D:\System Programming\Process Manager\Process Manager\obj\Debug\net6.0-windows\Process Manager.genruntimeconfig.cache
+D:\System Programming\Process Manager\Process Manager\obj\Debug\net6.0-windows\ref\Process Manager.dll
