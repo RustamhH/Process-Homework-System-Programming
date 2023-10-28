@@ -62,9 +62,9 @@ namespace Process_Manager
             try
             {
                 string id=ProcessList.SelectedItem.ToString().Split('-')[0].Trim();
-                var process=Process.GetProcessById(Convert.ToInt32(id));
+                Process process = Process.GetProcessById(Convert.ToInt32(id));
                 process.Kill();
-                Load();
+                ProcessList.Items.Remove(ProcessList.SelectedItem);
             }
             catch (Exception ex)
             {
